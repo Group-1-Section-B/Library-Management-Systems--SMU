@@ -1,8 +1,11 @@
 # Library-Management-Systems--SMU
 C++ project for St.  Mary’s University -  Group 1 Section B
 -------------------------------------------------------------------------------
-| GROUP MEMBERS             ID Number             GitHub Username              |
-| DINA DANIEL               RCD/2494/2016             @Issdinah                | 
+| GROUP MEMBERSID Number             GitHub Username              |
+|
+
+
+DINA DANIEL               RCD/2494/2016             @Issdinah                | 
 | DAGMAWI MEKONNEN          RCD/0182/2017             @dagnext01               |
 | EYERUSALEM HAILU          RCD/0190/2017             @jeruxoxo                |
 | DAGIMAWI G/MARIAM         RCD/0182/2017             @DAGIMAWiGEBREMARIAM
